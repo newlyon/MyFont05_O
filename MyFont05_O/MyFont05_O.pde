@@ -1,3 +1,10 @@
+/**
+    rotation of 'O's
+    Yu Qing 26/08/2012
+    royu756@gmail.com
+*/ 
+
+
 
 size(400,400);
 
